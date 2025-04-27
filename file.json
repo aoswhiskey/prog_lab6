@@ -1,0 +1,46 @@
+[
+  {
+    "id": 4,
+    "name": "lab4",
+    "coordinates": {
+      "x": 123,
+      "y": 123
+    },
+    "creationDate": "2024-09-12",
+    "minimalPoint": 12.0,
+    "difficulty": "INSANE",
+    "author": {
+      "name": "ya",
+      "birthday": "2000-01-01T00:00:00",
+      "height": 123.0,
+      "location": {
+        "x": 3354.0,
+        "y": 578,
+        "z": 234,
+        "name": "peterburg"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "lab5",
+    "coordinates": {
+      "x": 123,
+      "y": 123
+    },
+    "creationDate": "2024-09-12",
+    "minimalPoint": 12.0,
+    "difficulty": "HOPELESS",
+    "author": {
+      "name": "ya",
+      "birthday": "2000-01-01T00:00:00",
+      "height": 123.0,
+      "location": {
+        "x": 3354.0,
+        "y": 578,
+        "z": 234,
+        "name": "peterburg"
+      }
+    }
+  }
+]

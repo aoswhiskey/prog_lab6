@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "lab1",
+    "coordinates": {
+      "x": "fghjk",
+      "y": 123
+    },
+    "creationDate": "2024-09-12",
+    "minimalPoint": 12.0,
+    "difficulty": "VERY_EASY",
+    "author": {
+      "name": "ya",
+      "birthday": "2000-01-01T00:00:00",
+      "height": 123.0,
+      "location": {
+        "x": 3354.0,
+        "y": 578,
+        "z": 234,
+        "name": "peterburg"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "lab2",
+    "coordinates": {
+      "x": 123,
+      "y": 1234
+    },
+    "creationDate": "2024-09898-12",
+    "minimalPoint": 12.0,
+    "difficulty": "HARD",
+    "author": {
+      "name": "me",
+      "birthday": "2001-01-10T00:00:00",
+      "height": null,
+      "location": {
+        "x": 123.0,
+        "y": 123,
+        "z": 123,
+        "name": null
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "lab3",
+    "coordinates": {
+      "x": 1231234,
+      "y": 33265
+    },
+    "creationDate": "2024-09-12",
+    "minimalPoint": 1234.0,
+    "difficulty": "VERY_HARD",
+    "author": {
+      "name": "ilya",
+      "birthday": "2006-07-10T00:00:00",
+      "height": 180.0,
+      "location": {
+        "x": 134.0,
+        "y": 542,
+        "z": 6581,
+        "name": "St.Petersburg"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "lab4",
+    "coordinates": {
+      "x": 123,
+      "y": 123
+    },
+    "creationDate": "2024-09-12",
+    "minimalPoint": 12.0,
+    "difficulty": "INSANE",
+    "author": {
+      "name": "ya",
+      "birthday": "2000-01-01T00:00:00",
+      "height": 123.0,
+      "location": {
+        "x": 3354.0,
+        "y": 578,
+        "z": 234,
+        "name": "peterburg"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "lab5",
+    "coordinates": {
+      "x": 123,
+      "y": 123
+    },
+    "creationDate": "2024-09-12",
+    "minimalPoint": 12.0,
+    "difficulty": "HOPELESS",
+    "author": {
+      "name": "ya",
+      "birthday": "2000-01-01T00:00:00",
+      "height": 123.0,
+      "location": {
+        "x": 3354.0,
+        "y": 578,
+        "z": 234,
+        "name": "peterburg"
+      }
+    }
+  }
+]
